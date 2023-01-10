@@ -18,7 +18,7 @@ With Flutter:
 
 ```yaml
     dependencies:
-    smartfluttertoast: ^0.0.4
+    smartfluttertoast: ^0.0.5
 ```
 
 Alternatively, your editor might support flutter pub get. Check the docs for your editor to learn more.
