@@ -2,8 +2,9 @@
 
 Flutter Toast
 
+![image description](https://github.com/dheeraj-bhadoria/Smart-Flutter-Toast/blob/main/demo.png)
+
 ## Use this package as a library
-## Depend on it
 
 ## Run this command:
 
